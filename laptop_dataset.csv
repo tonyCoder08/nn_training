@@ -1,4 +1,4 @@
-"ram","storage" , "clock_speed" ," category"
+"ram","storage" , "clocks" ,"category"
 1,50,1.1,"Average"
 2,50,1.1,"Average"
 2,50,1.2,"Average"
